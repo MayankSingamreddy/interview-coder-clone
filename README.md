@@ -1,3 +1,14 @@
+Somebody cloned Roy's [Interview Coder]([https://nodejs.org/](https://www.interviewcoder.co/)). 
+This is a fork that I improved to be more usable.  
+
+I fixed:
+- doesn't tab out when you submit a query
+- moved the window to bottom screen to avoid not being able to click on the problem
+
+Needs to be done: 
+- Query window is open even when it's not being used and gets in the way of clicks
+
+
 # OA Coder
 
 OA Coder is an Electron application that captures screenshots and leverages the OpenAI API to analyze them. It can solve questions, generate code, or provide detailed answers based on screenshots. The app supports both single screenshot processing and multi-page mode for capturing multiple images before analysis.
